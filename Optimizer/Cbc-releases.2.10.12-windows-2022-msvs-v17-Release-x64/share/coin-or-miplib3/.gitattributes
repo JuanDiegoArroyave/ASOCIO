@@ -1,0 +1,77 @@
+* text=auto !eol
+/10teams.gz -text svneol=unset#application/x-gzip
+/air03.gz -text svneol=unset#application/x-gzip
+/air04.gz -text svneol=unset#application/x-gzip
+/air05.gz -text svneol=unset#application/x-gzip
+/arki001.gz -text svneol=unset#application/x-gzip
+/bell3a.gz -text svneol=unset#application/x-gzip
+/bell5.gz -text svneol=unset#application/x-gzip
+/blend2.gz -text svneol=unset#application/x-gzip
+/cap6000.gz -text svneol=unset#application/x-gzip
+/coindatamiplib3-uninstalled.pc.in -text
+/coindatamiplib3.pc.in -text
+/config.guess -text
+/config.sub -text
+/configure -text
+/configure.ac -text
+/dano3mip.gz -text svneol=unset#application/x-gzip
+/danoint.gz -text svneol=unset#application/x-gzip
+/dcmulti.gz -text svneol=unset#application/x-gzip
+/depcomp -text
+/dsbmip.gz -text svneol=unset#application/x-gzip
+/egout.gz -text svneol=unset#application/x-gzip
+/enigma.gz -text svneol=unset#application/x-gzip
+/fast0507.gz -text svneol=unset#application/x-gzip
+/fiber.gz -text svneol=unset#application/x-gzip
+/fixnet6.gz -text svneol=unset#application/x-gzip
+/flugpl.gz -text svneol=unset#application/x-gzip
+/gen.gz -text svneol=unset#application/x-gzip
+/gesa2.gz -text svneol=unset#application/x-gzip
+/gesa2_o.gz -text svneol=unset#application/x-gzip
+/gesa3.gz -text svneol=unset#application/x-gzip
+/gesa3_o.gz -text svneol=unset#application/x-gzip
+/gt2.gz -text svneol=unset#application/x-gzip
+/harp2.gz -text svneol=unset#application/x-gzip
+/install-sh -text
+/khb05250.gz -text svneol=unset#application/x-gzip
+/l152lav.gz -text svneol=unset#application/x-gzip
+/lseu.gz -text svneol=unset#application/x-gzip
+/ltmain.sh -text
+/markshare1.gz -text svneol=unset#application/x-gzip
+/markshare2.gz -text svneol=unset#application/x-gzip
+/mas74.gz -text svneol=unset#application/x-gzip
+/mas76.gz -text svneol=unset#application/x-gzip
+/miplib3.cat -text
+/misc03.gz -text svneol=unset#application/x-gzip
+/misc06.gz -text svneol=unset#application/x-gzip
+/misc07.gz -text svneol=unset#application/x-gzip
+/missing -text
+/mitre.gz -text svneol=unset#application/x-gzip
+/mkc.gz -text svneol=unset#application/x-gzip
+/mod008.gz -text svneol=unset#application/x-gzip
+/mod010.gz -text svneol=unset#application/x-gzip
+/mod011.gz -text svneol=unset#application/x-gzip
+/modglob.gz -text svneol=unset#application/x-gzip
+/noswot.gz -text svneol=unset#application/x-gzip
+/nw04.gz -text svneol=unset#application/x-gzip
+/p0033.gz -text svneol=unset#application/x-gzip
+/p0201.gz -text svneol=unset#application/x-gzip
+/p0282.gz -text svneol=unset#application/x-gzip
+/p0548.gz -text svneol=unset#application/x-gzip
+/p2756.gz -text svneol=unset#application/x-gzip
+/pk1.gz -text svneol=unset#application/x-gzip
+/pp08a.gz -text svneol=unset#application/x-gzip
+/pp08aCUTS.gz -text svneol=unset#application/x-gzip
+/qiu.gz -text svneol=unset#application/x-gzip
+/qnet1.gz -text svneol=unset#application/x-gzip
+/qnet1_o.gz -text svneol=unset#application/x-gzip
+/rentacar.gz -text svneol=unset#application/x-gzip
+/rgn.gz -text svneol=unset#application/x-gzip
+/rout.gz -text svneol=unset#application/x-gzip
+/set1ch.gz -text svneol=unset#application/x-gzip
+/seymour.gz -text svneol=unset#application/x-gzip
+/stein27.gz -text svneol=unset#application/x-gzip
+/stein45.gz -text svneol=unset#application/x-gzip
+/swath.gz -text svneol=unset#application/x-gzip
+/vpm1.gz -text svneol=unset#application/x-gzip
+/vpm2.gz -text svneol=unset#application/x-gzip
