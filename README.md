@@ -10,6 +10,10 @@
 Este proyecto está licenciado bajo los términos de la **Apache License 2.0**.  
 Puedes ver los detalles completos en el archivo [LICENSE](./LICENSE).
 
+## DescripcionReto.docx.pdf
+
+Descripción y espeficicación completa del reto desarrollado
+
 ## Optimizador CBC
 
 Para este proyecto se hizo uso del optimizador CBC desarrollado por Coin-or el release Cbc-releases.2.10.12-windows-2022-msvs-v17-Release-x64 el cual se encuentra en el repositorio https://github.com/coin-or/Cbc/releases
