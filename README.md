@@ -1,9 +1,9 @@
 
 ## Autores
 
-- Juan Diego Arroyave Murillo  
-- Sebastian Sanchez Alvarez  
-- Tatiana Ortiz Rojas  
+- Juan Diego Arroyave Murillo  |  juan.arroyave14@udea.edu.co  |  linkedin.com/in/juan-diego-arroyave-murillo-41ba08302
+- Sebastian Sanchez Alvarez  |  sebastian.sanchez9@udea.edu.co  |  linkedin.com/in/sebastián-sánchez-álvarez-919018237
+- Tatiana Ortiz Rojas  |  tatiana.ortizr1@udea.edu.co  |  linkedin.com/in/tatiana-ortiz-rojas-419b0b26b
 
 ## Licencia
 
